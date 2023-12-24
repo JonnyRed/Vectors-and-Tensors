@@ -142,3 +142,4 @@ dmypy.json
 base-format-example-formatted.py
 base-format-example.py
 sandbox.py
+.vscode/settings.json
