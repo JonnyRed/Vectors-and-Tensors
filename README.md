@@ -10,3 +10,5 @@
 * The book is divided into six chapters. The first three chapters deal with vectors, the fourth chapter discusses coordinate transformations, and the last two chapters discuss higher-order tensors and some of their applications¹.
 
 'A Student's Guide to Vectors and Tensors' is a book written by Daniel Fleisch. It is aimed at undergraduate and beginning graduate students of physics and engineering. The book provides a thorough grounding in vectors and vector calculus before transitioning through contra and covariant components to tensors and their applications. Vectors and tensors are among the most powerful problem-solving tools available, with applications ranging from mechanics and electromagnetic to general relativity. You can find more information about the book on the publisher's website.
+
+Finished section 2
